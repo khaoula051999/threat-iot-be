@@ -1,0 +1,6 @@
+# quick and merge sort
+
+
+
+
+
